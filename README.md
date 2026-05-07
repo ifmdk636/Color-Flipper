@@ -91,4 +91,4 @@ This project helps practice:
 
 ## License
 
-Free to use for learning purposes.
+MIT License
